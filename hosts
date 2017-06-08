@@ -2,4 +2,4 @@
 localhost
 
 [my_group:vars]
-ansible_connection
+ansible_connection=local

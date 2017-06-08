@@ -1,0 +1,5 @@
+---
+ - hosts: my_group
+   tasks:
+     - debug:
+         var: test
